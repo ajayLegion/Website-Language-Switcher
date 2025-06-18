@@ -115,4 +115,4 @@ loadLanguage(userLang.startsWith("hi") ? "hi" : "en");
 ```
 
 ---
-<img title="Website-Language-Switcher" alt="Website-Language-Switcher view" src="">
+<img title="Website-Language-Switcher" alt="Website-Language-Switcher view" src="Website-Language-Switcher view.jpg">
